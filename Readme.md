@@ -1,7 +1,7 @@
 Url shorteners list
 ==
 
-List of 400+ url shorteners websites.
+List of 300+ url shorteners websites.
 
 Contribute
 --
